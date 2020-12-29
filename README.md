@@ -7,3 +7,4 @@ RAW_global_confirmed_cases.csv
 RAW_global_deaths.csv
 RAW_us_confirmed_cases.csv
 RAW_us_deaths.csv
+CONVENIENT_us_metadata.csv
